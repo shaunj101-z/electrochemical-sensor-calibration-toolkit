@@ -1,7 +1,7 @@
 # electrochemical-sensor-calibration-toolkit
 ### **Electrochemical Sensor Calibration Toolkit**
 
-_A Python toolkit for fitting calibration curves to electrochemical sensor data, visualizing sensor responses, and evaluating how well a calibration fits.
+A Python toolkit for fitting calibration curves to electrochemical sensor data, visualizing sensor responses, and evaluating how well a calibration fits.
 
 Status: Early stage. The project scope and structure are defined below. Implementation is starting now, alongside my Python fundamentals._
 
