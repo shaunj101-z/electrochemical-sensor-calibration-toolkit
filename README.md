@@ -3,7 +3,7 @@
 
 A Python toolkit for fitting calibration curves to electrochemical sensor data, visualizing sensor responses, and evaluating how well a calibration fits.
 
-Status: Early stage. The project scope and structure are defined below. Implementation is starting now, alongside my Python fundamentals._
+Status: Early stage. The project scope and structure are defined below. Implementation is starting now, alongside my Python fundamentals.
 
 **Motivation**
 Electrochemical sensors (for example, aptamer-based sensors) produce a signal such as current that must be mapped to analyte concentration through a calibration curve. Judging the quality of that calibration, and being honest about where it stops being valid, matters as much as the fit itself. This project is my attempt to build the tools for that workflow from scratch and understand each step as groundwork for applying ML to physical sensing systems.
